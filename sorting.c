@@ -15,6 +15,7 @@ void bubbleSort(int A[], int l){
         }
         if(flag == 0){
             break;
+            continue;
         }
     }
 }
